@@ -1,0 +1,43 @@
+// translations.js
+export const translations = {
+    en: {
+      home: "Home",
+      features: "Features",
+      howItWorks: "How It Works",
+      healthTips: "Health Tips & Insights",
+      about: "About Us",
+      login: "Login/Sign Up",
+      healthEase: "HealthEase",
+      language: "Language",
+    },
+    es: {
+      home: "Inicio",
+      features: "Características",
+      howItWorks: "Cómo Funciona",
+      healthTips: "Consejos de Salud",
+      about: "Sobre Nosotros",
+      login: "Iniciar Sesión/Registrarse",
+      healthEase: "HealthEase",
+      language: "Idioma",
+    },
+    fr: {
+      home: "Accueil",
+      features: "Fonctionnalités",
+      howItWorks: "Comment Ça Marche",
+      healthTips: "Conseils de Santé",
+      about: "À Propos de Nous",
+      login: "Connexion/Inscription",
+      healthEase: "HealthEase",
+      language: "Langue",
+    },
+    hi: {
+      home: "होम",
+      features: "सुविधाएं",
+      howItWorks: "कैसे काम करता है",
+      healthTips: "स्वास्थ्य सुझाव",
+      about: "हमारे बारे में",
+      login: "लॉग इन/साइन अप",
+      healthEase: "HealthEase",
+      language: "भाषा",
+    },
+  };
